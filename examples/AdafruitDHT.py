@@ -86,4 +86,6 @@ while True:
    else:
       print('Failed to get reading. Try again!')
       sys.exit(1)
+      print("123")
    time.sleep(1)
+	
